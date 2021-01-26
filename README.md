@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=swapnilshinde123&theme=radical" alt="swapnilshinde123" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
