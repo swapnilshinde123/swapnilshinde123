@@ -20,4 +20,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilshinde123&theme=radical" alt="swapnilshinde123" /></p>
-![Visitor Count](https://profile-counter.glitch.me/{swapnilshinde123}/count.svg)
+![](https://komarev.com/ghpvc/?swapnilshinde123=your-github-swapnilshinde123&color=green)
