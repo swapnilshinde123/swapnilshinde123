@@ -19,9 +19,5 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilshinde123&theme=radical" alt="swapnilshinde123" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?swapnilshinde123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilshinde123&label=Profile%20views&color=129e00&style=plastic" alt="swapnilshinde123" /> </p>
 
