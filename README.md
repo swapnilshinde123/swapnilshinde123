@@ -2,7 +2,7 @@
 <a href="https://ibb.co/3W72nhb"><img src="https://i.ibb.co/0ZcTxJL/0001.jpg" width="1400px" alt="0001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilshinde123&label=Profile%20views&color=129e00&style=plastic" alt="swapnilshinde123" /> </p>
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swapnil Shinde. I'm a web developer . Welcome to my GitHub page! <br>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swapnil Shinde. I'm a web developer . Welcome to my GitHub page! <br>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=swapnilshinde123&theme=onedark)](https://github.com/swapnilshinde123/swapnilshinde123)
