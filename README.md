@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilshinde123&theme=radical" alt="swapnilshinde123" /></p>
 
 
-
+[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=swapnilshinde123&repo=github-readme-stats&cache_seconds=86400&theme=radical
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilshinde123&show_icons=true&count_private=true&theme=radical)  
 
