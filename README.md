@@ -1,6 +1,6 @@
 
 <a href="https://ibb.co/3W72nhb"><img src="https://i.ibb.co/0ZcTxJL/0001.jpg" width="1400px" alt="0001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-
+[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilshinde123&label=Profile%20views&color=129e00&style=plastic" alt="swapnilshinde123" /> </p>
  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swapnil Shinde. I'm a web developer . Welcome to my GitHub page! <br>
 
