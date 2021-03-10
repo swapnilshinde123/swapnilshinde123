@@ -1,6 +1,6 @@
 
 
-<img src="shindeswapnil1.svg"></img>
+<img src="swapnil.svg"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilshinde123&label=Profile%20views&color=129e00&style=plastic" alt="swapnilshinde123" /> </p>
  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <h2> I'm Swapnil Shinde. I'm a web developer . Welcome to my GitHub page!</h2>
