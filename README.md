@@ -5,7 +5,6 @@
 <h2> I'm Swapnil Shinde. I'm a web developer . Welcome to my GitHub page!</h2>
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 
